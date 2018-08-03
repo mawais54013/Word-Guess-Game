@@ -2,7 +2,7 @@
 
 # Link to Deployed Site
 
-[Word-Guess-Game](file:///Users/muhammadawais/Desktop/Word-Guess-Game/index.html)
+[Word-Guess-Game](https://mawais54013.github.io/Word-Guess-Game/)
 
 # Images
 ![Game](assets/images/screen1.png)
