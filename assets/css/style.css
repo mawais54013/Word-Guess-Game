@@ -1,0 +1,27 @@
+h1
+{
+    text-align: center;
+    color:yellow;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: rgb(190, 190, 80);
+    text-decoration: underline;
+}
+h3{
+    color: yellow;
+}
+#grid1
+{
+    border-style: ridge;
+    border-width: 5px;
+    border-color: darkblue;
+    height: 70%;
+    border-radius: 5px;
+    font-family: 'Cantarell', sans-serif;
+
+}
