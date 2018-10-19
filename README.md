@@ -36,6 +36,8 @@ var word = computerChoice.length;
     document.getElementById("text6").innerHTML = 15;
     document.getElementById("text7").innerHTML = "Letters already used: ";
 ```
+
+This code snippets shows that the names are stored into a array and the computer randomly chooses them with Math.random. Once the word is picked then the scores are set with the guesses left and they are all sent to the html file with the id's of each holder. 
 # Learned Materials
 I learned to use Javascript as the base for this game while using CSS and Bootstrap to add style and background.
 
