@@ -5,6 +5,8 @@ Word Guess Game with a Avenger's theme using Javascript
 
 [Word-Guess-Game](https://mawais54013.github.io/Word-Guess-Game/)
 
+[Portfolio](https://mawais54013.github.io/New-Portfolio/)
+
 # Images
 ![Game](assets/images/screen1.png)
 
