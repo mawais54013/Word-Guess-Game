@@ -1,5 +1,5 @@
 # Word-Guess-Game
-Word Guess Game with a Avenger's theme using Javascript
+Word Guess Game with a Avenger's theme using Javascript. Guess the right letters to display the character. 
 
 # Link to Deployed Site
 
